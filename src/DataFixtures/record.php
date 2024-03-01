@@ -1,5 +1,5 @@
 <?php
-use App\DataFixtures\record;
+
 /**
  * Export to PHP Array plugin for PHPMyAdmin
  * @version 5.1.1deb5ubuntu1
